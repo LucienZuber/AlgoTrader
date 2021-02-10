@@ -2,8 +2,15 @@
     "cSpell.words": [
         "EURJPY",
         "commision",
+        "idxmax",
+        "idxmin",
+        "iloc",
         "inplace",
+        "mplfinance",
+        "ohlc",
+        "pyplot",
         "pytz",
+        "reindex",
         "talib"
     ]
 }
